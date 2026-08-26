@@ -1,2 +1,2 @@
 # seninestudio.github.io
-Senine Studio
+Senine Studio LLC
